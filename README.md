@@ -21,4 +21,5 @@ A[2][3][2]  = 0011(H) + {((2–1) * 4 * 3) + ((3-1) * 3) + (2-1)} * 2
             = 0037(H)
             
             
+Tutorial & Penjelasan -> https://youtu.be/DnmTGpWoH9Y <-
 Request Program Calculator, Bisa Japri ke wa.me/082149118142
